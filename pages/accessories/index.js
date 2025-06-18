@@ -1,6 +1,6 @@
 import Head from 'next/head';
-import DealCard from '../components/DealCard';
-import { deals } from '../components/deals';
+import DealCard from '../../components/DealCard';
+import { deals } from '../../components/deals';
 
 export default function Accessories() {
   return (
